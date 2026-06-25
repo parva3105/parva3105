@@ -1,15 +1,14 @@
-
 <div align="center">
 
 # Hi there, I'm Parva Shah 👋
 
 ### Software Engineer | Backend + Full-Stack + AI/Data Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=MS+Software+Engineering+%40+RIT;Building+products+across+backend%2C+full-stack%2C+data+pipelines%2C+and+AI;Turning+messy+workflows+into+clean%2C+reliable+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=MS+Software+Engineering+%40+RIT;Building+backend%2C+full-stack%2C+data+pipelines%2C+and+AI-powered+tools;Turning+messy+workflows+into+clean%2C+reliable%2C+usable+systems" alt="Typing SVG" />
 
 <br />
 
-<a href="mailto:ps7384@rit.edu"><img src="https://img.shields.io/badge/Email-ps7384%40rit.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:work.parry@gmail.com"><img src="https://img.shields.io/badge/Email-work.parry%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/parva3105"><img src="https://img.shields.io/badge/LinkedIn-Parva%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://parva-shah.vercel.app"><img src="https://img.shields.io/badge/Portfolio-parva--shah.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/parva3105"><img src="https://img.shields.io/badge/GitHub-parva3105-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -23,10 +22,10 @@
 ## 🚀 About Me
 
 - 🎓 MS in Software Engineering from **Rochester Institute of Technology**
-- 💻 Software engineer working across **backend engineering, full-stack products, data pipelines, and AI-powered tools**
-- 🛠️ I like building systems that connect messy real-world workflows with clean APIs, reliable data flows, and usable interfaces
-- 🤖 Currently exploring **agentic AI workflows, RAG systems, automation, cloud infrastructure, and production-grade developer tools**
-- 🌱 I enjoy taking ideas from rough prototypes to products that real users can test, break, and improve
+- 💻 I build across **backend engineering, full-stack products, data pipelines, and AI-powered tools**
+- 🛠️ I like connecting messy real-world workflows with clean APIs, reliable data flows, and usable interfaces
+- 🤖 Currently exploring **agentic AI workflows, RAG systems, automation, cloud infrastructure, and developer tools**
+- 🌱 I learn best by shipping: building rough prototypes, testing with users, breaking things, and improving them fast
 
 ---
 
@@ -74,6 +73,7 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
@@ -82,6 +82,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
@@ -102,8 +103,16 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=parva3105&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=Parva's%20GitHub%20Stats" alt="Parva's GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parva3105&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Most Used Languages" />
+<!--
+  Fix applied:
+  Removed include_all_commits=true and count_private=true from the stats card.
+  Those options can cause the hosted GitHub Readme Stats card to fail with:
+  "Could not fetch total commits."
+  The card below keeps the dynamic rank circle while using more stable public GitHub stats.
+-->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=parva3105&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=Parva%27s%20GitHub%20Stats&cache_seconds=86400" alt="Parva's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parva3105&layout=compact&theme=github_dark&hide_border=true&langs_count=12&cache_seconds=86400" alt="Most Used Languages" />
 
 <br />
 <br />
@@ -123,10 +132,10 @@
 
 | Project | What it shows | Tech |
 |---|---|---|
-| [**InMailer**](https://github.com/parva3105/InMailer) | Full-stack mail merge platform for personalized outreach, templates, CSV upload, previews, dashboard stats, Google OAuth, and Gmail API sending | React, TypeScript, Flask, SQLAlchemy, Google OAuth, Gmail API |
-| [**Gujarati Hate Speech Classifier**](https://github.com/parva3105/Gujarati-Hate-Speech-Classifier) | Active-learning NLP pipeline for Gujarati hate-speech classification using seed labels, pseudo-labeling, and IndicBERT fine-tuning | Python, HuggingFace, IndicBERT, scikit-learn, Pandas |
-| [**SaayamForAll Web App**](https://github.com/saayam-for-all/webapp) | React-based nonprofit web application work focused on reusable frontend flows and community-facing product features | React, JavaScript, Web App Engineering |
-| [**Task Manager API**](https://github.com/parva3105/task-manager) | REST API for CRUD workflows, authentication-style backend patterns, and API-first application structure | Node.js, Express, MongoDB, JavaScript |
+| [**InMailer**](https://github.com/parva3105/InMailer) | Personalized outreach automation with templates, CSV-based personalization, and email sending workflows | Python, Flask, React, TypeScript, Gmail API, Google OAuth |
+| [**Gujarati Hate Speech Classifier**](https://github.com/parva3105/Gujarati-Hate-Speech-Classifier) | NLP classification pipeline for Gujarati hate-speech detection using transformer-based modeling and active-learning ideas | Python, HuggingFace, IndicBERT, ALBERT, scikit-learn, Pandas |
+| [**SaayamForAll Web App**](https://github.com/saayam-for-all/webapp) | Nonprofit web application work focused on reusable frontend flows and community-facing product features | React, JavaScript, Web App Engineering |
+| [**Task Manager API**](https://github.com/parva3105/task-manager) | REST API for CRUD workflows and backend application structure | Node.js, Express, MongoDB, JavaScript |
 | [**Blog App**](https://github.com/parva3105/blog-app) | Django-based personal blog application with backend routing and content management foundations | Python, Django |
 | [**Weather App**](https://github.com/parva3105/weather-app) | API-powered weather application using server-side JavaScript and external weather/location services | Node.js, JavaScript, APIs |
 
@@ -148,10 +157,10 @@ Cloud infrastructure   ███████████████░░░░
 
 <div align="center">
 
-<a href="mailto:ps7384@rit.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/parva3105"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://parva-shah.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/parva3105"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:work.parry@gmail.com"><img src="https://img.shields.io/badge/Email-work.parry%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/parva3105"><img src="https://img.shields.io/badge/LinkedIn-Parva%20Shah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://parva-shah.vercel.app"><img src="https://img.shields.io/badge/Portfolio-parva--shah.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/parva3105"><img src="https://img.shields.io/badge/GitHub-parva3105-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
